@@ -2,8 +2,9 @@
 #include<conio.h>
 void main()
 {
-    int a,b,s=0;
+    int a,b,s=10;
     cin>>a>>b;
     s=a+b;
     return 0;
 }
+//chnages made in git repository
