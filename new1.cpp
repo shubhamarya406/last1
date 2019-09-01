@@ -3,7 +3,6 @@
 void main()
 {
     int a=2,b=50,s=10;
-    s+=a+b;
     cout<<"sum="<<s;
     return 0;
 }
